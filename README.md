@@ -79,4 +79,4 @@ Backend-разработчик и ex-продуктовый аналитик д�
 
 ## 📬 Связь
 
-- 🐦 [Telegram](https://t.me/datadima) 
+- 🐦 [Telegram](https://t.me/backdima) 
