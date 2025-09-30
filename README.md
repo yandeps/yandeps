@@ -1,5 +1,5 @@
 # 👋 Привет! Я — Дима
-
+<img align="right" src="https://github.com/yandeps/yandeps/blob/f50e9b83247389d80a03f5f2e3e16ec230f3611c/photo_2025-09-30_21-40-51.jpg?raw=true" alt="Дима" width="200" style="border-radius: 50%; margin-left: 16px;">
 Backend-разработчик и ex-продуктовый аналитик данных с опытом в логистических системах.
 
 ---
